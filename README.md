@@ -7,4 +7,3 @@
 - 🌱 I’m currently learning animation and rom building and kernel building.
 - 📫 How to reach me:
   - Most active on [Telegram](https://t.me/flashokiller_gacha).
-  - [Email](mailto:flashokiller@gmail.com).
