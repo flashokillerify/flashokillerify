@@ -12,5 +12,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=flashokiller)](https://github.com/flashokiller/github-profile-trophy)
 
-
- <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejyejtjALWqxVThccCarJnoWOn1SbkNqWHg&usqp=CAU width = 100 align = "right">
