@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning animation and rom building and kernel building.
 - 📫 How to reach me:
-  - Most active on [Telegram](https://t.me/flashogacha).
+  - Most active on [Telegram](https://t.me/flasho_gacha).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=flashokillerify)](https://github.com/flashokiller/github-profile-trophy)
 
