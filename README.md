@@ -12,3 +12,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=flashokillerify)](https://github.com/flashokiller/github-profile-trophy)
 
+<h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31s6flcwezvpcj7ttr2diyychcce" alt="Spotify Now Playing" width="400" />
+</p>  
